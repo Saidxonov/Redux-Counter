@@ -1,0 +1,35 @@
+.counter {
+  text-align: center;
+  font-size: 100px;
+  margin-top: 50px;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 100px;
+  flex-wrap: wrap;
+}
+
+.incerement {
+  padding: 10px 20px;
+  background-color: rgb(88, 191, 88);
+  color: #fff;
+  border-radius: 10px;
+}
+
+.decrement {
+  padding: 10px 20px;
+  background-color: rgb(232, 82, 82);
+  color: #fff;
+  border-radius: 10px;
+}
+
+.inc {
+  padding: 10px 20px;
+}
+
+.buttons button {
+  margin-top: 10px;
+}
